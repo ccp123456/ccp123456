@@ -9,11 +9,11 @@
 
 ### another md
 
-[ccp.md](https://github.com/fichas/CS-Course/blob/main/English/chaos.md)
+[ccp.md](https://github.com/ccp123456/ccp123456/edit/main/ccp.md)
 
 ### local img
 
-<img src="./test.jpg" alt="klee" style="zoom:33%;" />
+<img src="./test.jpg" alt="test" style="zoom:33%;" />
 
 ### web img
 
