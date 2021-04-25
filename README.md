@@ -9,7 +9,7 @@
 
 ### another md
 
-[ccp.md](https://github.com/ccp123456/ccp123456/edit/main/ccp.md)
+[ccp.md](https://github.com/ccp123456/ccp123456/blob/main/ccp.md)
 
 ### local img
 
